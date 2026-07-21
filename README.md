@@ -6,7 +6,7 @@ links regional logistics to customer value, and segments customers using RFM
 analysis. Built with PostgreSQL, Google Sheets, and Looker Studio.
 
 ## 📊 Live Dashboard
-[View the interactive dashboard here]([YOUR LOOKER LINK])
+https://datastudio.google.com/reporting/67594b01-4913-43d6-8615-cc0d838c3912
 
 ## Business Questions
 1. What share of customers make a repeat purchase?
